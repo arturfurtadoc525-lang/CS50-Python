@@ -19,7 +19,7 @@ Este repositório contém as minhas resoluções para os problemas e projetos do
 | **Week 5** | Unit Tests | `test_bank.py`, `test_twttr.py` | ✅ |
 | **Week 6** | File I/O | `lines.py`, `scourgify.py` | ✅ |
 | **Week 7** | Regular Expressions | `um.py`, `watch.py` | ✅ |
-| **Week 8** | Object-Oriented Programming | `jar.py`, `seasons.py` | 🚧 |
+| **Week 8** | Object-Oriented Programming | `jar.py`, `seasons.py`, `shirtificate.py` | ✅ |
 
 ## 🛠️ Destaques de Aprendizado
 
