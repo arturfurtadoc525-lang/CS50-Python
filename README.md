@@ -20,6 +20,7 @@ Este repositório contém as minhas resoluções para os problemas e projetos do
 | **Week 6** | File I/O | `lines.py`, `scourgify.py` | ✅ |
 | **Week 7** | Regular Expressions | `um.py`, `watch.py` | ✅ |
 | **Week 8** | Object-Oriented Programming | `jar.py`, `seasons.py`, `shirtificate.py` | ✅ |
+| **Week 9** | ET Cetera |  | 🚧 |
 
 ## 🛠️ Destaques de Aprendizado
 
